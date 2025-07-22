@@ -5,7 +5,7 @@ pipeline {
           steps {
             sh 'ls'
               sh 'pwd'
-            echo 'hola'
+            echo 'hola mucho gusto'
           }
       }
   }
